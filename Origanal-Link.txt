@@ -1,0 +1,7 @@
+Image 
+Logo:-
+assets/img/NavBar/logo.svg
+assets/img/NavBar/logo.svg
+
+
+    <link rel='stylesheet' id='wmc-flags-css' href='assets/css/plugins/flags-64.min.css' type='text/css' media='all' />
